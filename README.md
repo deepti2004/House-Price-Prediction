@@ -1,24 +1,23 @@
-# House-Price-Prediction
-A machine learning project that predicts house prices based on property features such as area. The project follows a complete ML workflow including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction using Simple Linear Regression.
+# 🏠 House Price Prediction
 
-🔧 Tech Stack
+A machine learning project that predicts house prices based on property features such as area. The project demonstrates a complete ML workflow including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction using Simple Linear Regression.
 
-Python
+## 🔧 Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
 
-Pandas, NumPy
+## 🚀 Features
+- Data cleaning and preprocessing  
+- Visualization of feature vs price relationship  
+- Model training using Linear Regression  
+- Performance evaluation using R² score  
+- House price prediction for new inputs  
 
-Matplotlib
+## ▶️ How to Run
+python house_price_prediction.py
 
-Scikit-learn
-
-🚀 Features
-
-Data cleaning and preprocessing
-
-Visualization of feature–price relationship
-
-Model training using Linear Regression
-
-Performance evaluation using R² score
-
-Price prediction for new inputs
+## 📌 Outcome
+The trained model predicts house prices based on input features with reliable accuracy.
